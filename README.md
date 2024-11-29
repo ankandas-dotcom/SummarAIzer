@@ -1,5 +1,5 @@
 # SummarAIzer App
-## Please the check the master branch for all project files and folders
+## Please check the master branch for all project files and folders
 ## Overview
 Please the check the master branch for complete project files and folder
 The AI Text Summarizer and Text Translator App is a web application that allows users to summarize large chunks of text and translate them into different languages. The app leverages powerful machine learning models to generate concise summaries and utilizes the LibreTranslate API for translation services.
