@@ -17,5 +17,5 @@ The AI Text Summarizer and Text Translator App is a web application that allows 
 - **Backend**: Node.js, Express.js
 - **APIs**:
   - **Hugging Face - Facebook’s “bart-large-cnn” model**: For text summarization.
-  - **MyMemory API**: For text translation.
+  - **MyMemory API, LibreTranslate**: For text translation.
 - **Styling**: CSS
